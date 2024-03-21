@@ -55,7 +55,7 @@ body{
 .grid-item-1{
     background-color: var(--Moderate-violet);
     grid-column: span 2;
-    background-image: url('../images/bg-pattern-quotation.svg');
+    background-image: url('./bg-pattern-quotation.svg');
     background-repeat: no-repeat;
     background-position: 90% 0%;
    
